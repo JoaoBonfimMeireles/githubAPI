@@ -1,0 +1,11 @@
+.input-text {
+    color: black;
+}
+
+.input-text input {
+    color: black;
+}
+
+.input-text button {
+    margin-left: 0.5rem;
+}
