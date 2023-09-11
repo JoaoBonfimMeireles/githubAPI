@@ -1,0 +1,37 @@
+.box-all {
+  width: 30rem;
+  margin: 0 auto;
+}
+
+.box-text {
+  padding: 1rem 0 0.5rem;
+  border-radius: 15px;
+  background-color: rgba(55, 82, 199, 0.747);
+}
+
+.hidden {
+  display: none;
+}
+
+.box-content {
+  border-radius: 15px;
+  background-color: rgba(55, 82, 199, 0.747);
+  margin-top: 1rem;
+  padding: 1rem 0 1.2rem;
+  text-align: center;
+}
+
+.box-content img {
+  margin-top: 10px;
+  width: 10rem;
+  border-radius: 10px;
+}
+
+.box-inf {
+  width: 10rem;
+  margin: 0 auto;
+}
+
+.box-inf p {
+  text-align: left;
+}

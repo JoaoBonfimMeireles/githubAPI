@@ -1,11 +1,30 @@
+.box-input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
 .input-text {
     color: black;
+    margin: 1rem 0;
 }
 
 .input-text input {
+    padding: 5px;
     color: black;
+    border-style: none;
+    border: none;
+    border-radius: 5px;
+    border: 0.05rem solid blue;
 }
 
 .input-text button {
+    background-color: blue;
+    border-radius: 5px;
+    width: 1.5rem;
+    height: 1.5rem;
+    border-style: none;
     margin-left: 0.5rem;
 }
