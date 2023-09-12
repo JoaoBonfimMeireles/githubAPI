@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="/public/assets/search.png" width="48%" height="17rem">
+  <img alt="projeto DevLinks" src="/public/assets/search.png" width="48%" height="50%">
     <img alt="projeto DevLinks" src="/public/assets/profile.png" width="48%">
 </p>
 
