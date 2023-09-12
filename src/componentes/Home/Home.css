@@ -1,12 +1,16 @@
 .box-all {
-  width: 30rem;
-  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
 
 .box-text {
   padding: 1rem 0 0.5rem;
   border-radius: 15px;
   background-color: rgba(55, 82, 199, 0.747);
+  width: 17rem;
 }
 
 .hidden {
@@ -14,11 +18,13 @@
 }
 
 .box-content {
+  width: 17rem;
   border-radius: 15px;
   background-color: rgba(55, 82, 199, 0.747);
   margin-top: 1rem;
   padding: 1rem 0 1.2rem;
   text-align: center;
+  line-height: 25px;
 }
 
 .box-content img {
@@ -29,7 +35,7 @@
 
 .box-inf {
   width: 10rem;
-  margin: 0 auto;
+  margin: 0.2rem auto 0;
 }
 
 .box-inf p {
